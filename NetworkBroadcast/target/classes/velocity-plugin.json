@@ -1,0 +1,1 @@
+{"id":"networkbroadcast","name":"Broadcast Message","version":"1.0.0-SNAPSHOT","description":"Broadcasts messages to all connected velocity servers!","authors":["Ruin9999"],"dependencies":[],"main":"com.ruin9999.networkbroadcast.NetworkBroadcast"}

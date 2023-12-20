@@ -1,0 +1,5 @@
+file-version: 1
+use-prefix: true
+
+#Uses adventure API MiniMessage styling
+prefix: "[<bold><rainbow>Broadcast</rainbow></bold>] "
